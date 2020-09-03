@@ -42,12 +42,19 @@
 <br>
 <hr>
 
+## Recent Activity:
+
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//burakcbdn/burakcbdn/issues/1) in [burakcbdn/burakcbdn](https://github.com//burakcbdn/burakcbdn)
+1. ❗️ Opened issue [#1](https://github.com//burakcbdn/burakcbdn/issues/1) in [burakcbdn/burakcbdn](https://github.com//burakcbdn/burakcbdn)
 <!--END_SECTION:activity-->
 
-![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=burakcbdn&show_icons=true&theme=prussian&count_private=true)
+<br>
 
+## Github Stats:
+![Burak's Github Stats](https://github-readme-stats-ochre-nine.vercel.app
+/api?username=burakcbdn&show_icons=true&theme=prussian&count_private=true)
+<br>
+## Spotify Now Playing:
 [![Spotify](https://spotify-readme.burakcbdn.vercel.app/api/spotify)](https://open.spotify.com/user/hesap4213)
 
 [website]: https://www.burakcabadan.com
