@@ -43,7 +43,7 @@
 <hr>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//burakcbdn/burakcbdn/issues/1) in [burakcbdn/burakcbdn](https://github.com//burakcbdn/burakcbdn)
+1. ❗️ Closed issue [#1](https://github.com//burakcbdn/burakcbdn/issues/1) in [burakcbdn/burakcbdn](https://github.com//burakcbdn/burakcbdn)
 <!--END_SECTION:activity-->
 
 ![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=burakcbdn&show_icons=true&theme=prussian&count_private=true)
