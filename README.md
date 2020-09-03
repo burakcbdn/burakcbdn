@@ -45,7 +45,7 @@
 
 ![Burak's Github Stats](https://github-readme-stats.vercel.app/api?username=burakcbdn&show_icons=true&theme=prussian&count_private=true)
 
-[![Spotify](https://https://spotify-readme.burakcbdn.vercel.app/api/spotify)](https://open.spotify.com/user/hesap4213)
+[![Spotify](https://https://spotify-readme.burakcbdn.vercel.app/api/spotify-readme)](https://open.spotify.com/user/hesap4213)
 
 <!--START_SECTION:activity-->
 
