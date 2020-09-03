@@ -56,6 +56,11 @@
 ## Spotify Now Playing:
 [![Spotify](https://spotify-readme.burakcbdn.vercel.app/api/spotify)](https://open.spotify.com/user/hesap4213)
 
+## Thanks For Helps:
+
+- Thanks to my girlfirend for making my Designs  
+[![Twitter Follow](https://img.shields.io/twitter/follow/billurbs2?color=1DA1F2&style=for-the-badge)](https://www.twitter.com/billurbs2)
+
 [website]: https://www.burakcabadan.com
 [twitter]: https://www.twitter.com/burakcbdn
 [instagram]: https://www.instagram.com/burakcbdn
