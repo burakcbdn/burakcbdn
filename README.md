@@ -40,7 +40,7 @@
 
 <br>
 <br>
-<hr>
+
 
 ## Recent Activity:
 
