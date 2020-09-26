@@ -45,7 +45,7 @@
 ## Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//dsciztech/dsciztech.github.io/pull/1) in [dsciztech/dsciztech.github.io](https://github.com//dsciztech/dsciztech.github.io)
+1. 💪 Opened PR [#1](https://github.com/dsciztech/dsciztech.github.io/pull/1) in [dsciztech/dsciztech.github.io](https://github.com/dsciztech/dsciztech.github.io)
 <!--END_SECTION:activity-->
 
 <br>
