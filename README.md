@@ -45,7 +45,7 @@
 ## Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/dsciztech/dsciztech.github.io/pull/21) in [dsciztech/dsciztech.github.io](https://github.com/dsciztech/dsciztech.github.io)
+1. 🎉 Merged PR [#22](https://github.com/dsciztech/dsciztech.github.io/pull/22) in [dsciztech/dsciztech.github.io](https://github.com/dsciztech/dsciztech.github.io)
 <!--END_SECTION:activity-->
 
 <br>
