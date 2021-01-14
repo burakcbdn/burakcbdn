@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on BBTasks Mobile TODO App.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning Kotlin.
 - 🥅 2020 Goals: Make more mobile apps and learn new skills.
 - 🎼 I'm interested in music. (Playing drums 🥁 and guitar 🎸)
 
