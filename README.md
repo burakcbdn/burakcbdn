@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on BBTasks Mobile TODO App.
+- 🔭 I’m currently working as a Freelancer Flutter Developer on [Bionluk](https://www.bionluk.com/burakcbdn).
 - 🌱 I’m currently learning ReactJS.
 - 🥅 2020 Goals: Make more mobile apps and learn new skills.
 - 🎼 I'm interested in music. (Playing drums 🥁 and guitar 🎸)
