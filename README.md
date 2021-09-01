@@ -1,6 +1,5 @@
 ### Hi there I am Burak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=burakcabadan.com&style=for-the-badge&url=https%3A%2F%2Fwww.burakcabadan.com)](https://www.burakcabadan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakcbdn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/burakcbdn)
 
 
