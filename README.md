@@ -58,7 +58,7 @@
 - Thanks to my girlfirend for making my Designs  
 [![Twitter Follow](https://img.shields.io/twitter/follow/billurbs2?color=1DA1F2&style=for-the-badge)](https://www.twitter.com/billurbs2)
 
-[website]: https://www.burakcabadan.com
+[website]: https://www.burakcbdn.me
 [twitter]: https://www.twitter.com/burakcbdn
 [instagram]: https://www.instagram.com/burakcbdn
 [linkedin]: https://www.linkedin.com/in/burakcbdn
