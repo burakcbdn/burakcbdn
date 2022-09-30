@@ -45,18 +45,9 @@
 <br>
 <br>
 
-
-## Recent Activity:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/dsciztech/dsciztech.github.io/pull/22) in [dsciztech/dsciztech.github.io](https://github.com/dsciztech/dsciztech.github.io)
-<!--END_SECTION:activity-->
-
-<br>
-
 ## Github Stats:
-![Burak's Github Stats](https://github-readme-stats-ochre-nine.vercel.app/api?username=burakcbdn&show_icons=true&theme=prussian&count_private=true)
-<br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakcbdn&theme=dark&show_icons=true&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakcbdn&layout=compact&langs_count=7&theme=dark"/>
+
 ## Thanks For Helps:
 
 - Thanks to my girlfirend for making my Designs  
