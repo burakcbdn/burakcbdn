@@ -3,12 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakcbdn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/burakcbdn)
 
 
-
-- 🔭 I’m currently working as a Freelancer Flutter Developer on [Bionluk](https://www.bionluk.com/burakcbdn).
-- 🌱 I’m currently learning ReactJS.
-- 🥅 2020 Goals: Make more mobile apps and learn new skills.
-- 🎼 I'm interested in music. (Playing drums 🥁 and guitar 🎸)
-
 ### Use my latest project [(Wallet Collector Bot)](https://walletcollector.xyz) [![Discord Bots](https://top.gg/api/widget/upvotes/938168242491494450.svg)](https://top.gg/bot/938168242491494450)
 
 ## Connect With Me!
