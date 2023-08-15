@@ -3,8 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakcbdn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/burakcbdn)
 
 
-### Use my latest project [(Wallet Collector Bot)](https://walletcollector.xyz) [![Discord Bots](https://top.gg/api/widget/upvotes/938168242491494450.svg)](https://top.gg/bot/938168242491494450)
-
 ## Connect With Me!
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
